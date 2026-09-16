@@ -31,6 +31,15 @@ no model at all.
 
 ## Other public work
 
+**[The Ordered List](https://github.com/Bigsupe55/pspo-course)** · Python + vanilla JS
+An interactive course for the PSPO I exam: 14 modules, 317 questions, 164 flashcards and
+20 branching decision simulations, shipped as one self-contained HTML file with no
+framework and no dependencies. [Open the demo](https://bigsupe55.github.io/pspo-course/).
+Content is data rather than markup, which is how seven parallel authoring agents working
+from one checked-in spec produced a course that reads in a single voice. The build is the
+test suite, and it deletes its own output if a sanitization check fails, so a bad build
+cannot be served by accident.
+
 **[maine-political-map](https://github.com/Bigsupe55/maine-political-map)** · JavaScript + Leaflet
 Every Maine political district and 529 town polygons, with 207 officials joined to the
 districts they hold. Vanilla JS, no build step. Towns are shaded by median household
