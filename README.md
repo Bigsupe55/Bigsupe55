@@ -53,7 +53,7 @@ Built entirely on free tiers, which is what drove every architectural decision i
 
 ## Before this
 
-Seven years in compliance and operations: violation investigations across 1,000+
+Four years in compliance and operations: violation investigations across 1,000+
 residential units, vendor negotiation, and staff training on Florida statute. Six Sigma
 Yellow Belt, Scrum Fundamentals, and a Florida LCAM license. Bilingual English/Spanish.
 
