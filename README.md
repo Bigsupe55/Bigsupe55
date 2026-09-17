@@ -31,7 +31,7 @@ no model at all.
 
 ## Other public work
 
-**[The Ordered List](https://github.com/Bigsupe55/pspo-course)** · Python + vanilla JS
+**[Owner's Manual](https://github.com/Bigsupe55/pspo-course)** · Python + vanilla JS
 An interactive course for the PSPO I exam: 14 modules, 317 questions, 164 flashcards and
 20 branching decision simulations, shipped as one self-contained HTML file with no
 framework and no dependencies. [Open the demo](https://bigsupe55.github.io/pspo-course/).
